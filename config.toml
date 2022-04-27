@@ -1,3 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Badeplatz Ludretikon, Thalwil'
+
+[params]
+description = "Das ist die Website des Badeplatzes Ludretikon mit dessen Kiosk"

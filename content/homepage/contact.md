@@ -9,7 +9,6 @@ weight: 4
 
 {{<icon class="fa fa-instagram fa-2x">}}&nbsp;[Instagram](https://www.instagram.com/ludibadi/)
 
-[{{<icon class="fa fa-instagram fa-2x">}}](https://www.instagram.com/ludibadi/)
 
 
 

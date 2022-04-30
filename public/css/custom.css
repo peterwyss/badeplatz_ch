@@ -1,0 +1,26 @@
+.post-holder {
+    background-image: repeating-linear-gradient(90deg, rgb(255, 230, 255), rgb(255, 255, 255) 1.5%) !important;
+}
+
+.post-holder.odd {
+    background-image: repeating-linear-gradient(90deg, rgb(0, 180, 255), rgb(0, 190, 255) 1.5%) !important;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+.g-img {
+    padding: 0.1em;
+}
+
+.status {
+    font-size: 0.5em;
+    left: 1em;
+    top: 0;
+    position: fixed;
+    padding-top: 1em;
+    background-color: blue;
+    opacity: 50%;
+}

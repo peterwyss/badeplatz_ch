@@ -1,6 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost/ludi'
 languageCode = 'en-us'
 title = 'Badeplatz Ludretikon, Thalwil'
 
 [params]
-description = "Das ist die Website des Badeplatzes Ludretikon mit dessen Kiosk"
+description = "Badeplatz mit Take Away"  
+
+images = ["/images/cheeseburger.webp"]
+
+

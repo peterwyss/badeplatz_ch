@@ -3,7 +3,7 @@ Title: "Baden"
 weight: 1
 bilder: 
    -  { src: "images/1.webp",  alt: "Sturm"}
-   -  { src: "images/2.webp",  alt: "Basilikum"}
+   -  { src: "images/suedosten.webp",  alt: "Südosten"}
    -  { src: "images/tomaten.webp",  alt: "Tomaten"}
    -  { src: "images/schwan.webp",  alt: "Schwan"}
 params:  

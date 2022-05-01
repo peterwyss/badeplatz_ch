@@ -21,6 +21,25 @@
     top: 0;
     position: fixed;
     padding-top: 1em;
-    background-color: blue;
+    background-color: rgb(55, 55, 59);
     opacity: 50%;
+}
+
+.waves {
+    height: 335px;
+}
+#w {
+    animation-name:             changing;
+    animation-duration:         12s;
+    animation-direction: normal        ;
+    animation-iteration-count:  1;
+    stroke: blue;
+}
+@keyframes changing {
+	0% {
+		width: 1%;
+	}
+	100% {
+		width: 100%;
+	}
 }

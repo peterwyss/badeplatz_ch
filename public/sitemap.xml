@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/ludi/blog/</loc>
+    <loc>http://localhost/blog/</loc>
   </url><url>
-    <loc>http://localhost/ludi/</loc>
+    <loc>http://localhost/impressum/impressum/</loc>
   </url><url>
-    <loc>http://localhost/ludi/categories/</loc>
+    <loc>http://localhost/</loc>
   </url><url>
-    <loc>http://localhost/ludi/tags/</loc>
+    <loc>http://localhost/categories/</loc>
   </url><url>
-    <loc>http://localhost/ludi/test/</loc>
+    <loc>http://localhost/impressum/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url><url>
+    <loc>http://localhost/test/</loc>
   </url>
 </urlset>

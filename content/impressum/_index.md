@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 ---
-Impressum
+
 ©Peter Wyss Catering info@peter-wyss.ch
 
 Betrieb: Badeplatz Ludretikon Seestrasse 160 8800 Thalwil
@@ -18,4 +18,6 @@ Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller
 
 Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-[About]({{< ref "/page/about" >}} "About Us")
+### Programmierung  
+
+[Zurück]({{< ref "/" >}} "Zurück")

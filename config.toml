@@ -1,4 +1,4 @@
-baseURL = 'http://localhost'
+baseURL = 'https://badeplatz.ch'
 languageCode = 'en-us'
 title = 'Badeplatz Ludretikon, Thalwil'
 

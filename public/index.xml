@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Badeplatz Ludretikon Thalwil on Badeplatz Ludretikon, Thalwil</title>
-    <link>http://badeplatz.ch/</link>
+    <link>https://badeplatz.ch/</link>
     <description>Recent content in Badeplatz Ludretikon Thalwil on Badeplatz Ludretikon, Thalwil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://badeplatz.ch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://badeplatz.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://badeplatz.ch/blog/</link>
+      <link>https://badeplatz.ch/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://badeplatz.ch/blog/</guid>
+      <guid>https://badeplatz.ch/blog/</guid>
       <description>Index</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://badeplatz.ch/impressum/impressum/</link>
+      <link>https://badeplatz.ch/impressum/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://badeplatz.ch/impressum/impressum/</guid>
+      <guid>https://badeplatz.ch/impressum/impressum/</guid>
       <description>Impressum ©Peter Wyss Catering info@peter-wyss.ch
 Betrieb: Badeplatz Ludretikon Seestrasse 160 8800 Thalwil
 Administration: Habsburgstrasse 4 8037 Zürich
@@ -31,10 +31,10 @@ Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller
     
     <item>
       <title>Testseite</title>
-      <link>http://badeplatz.ch/test/</link>
+      <link>https://badeplatz.ch/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://badeplatz.ch/test/</guid>
+      <guid>https://badeplatz.ch/test/</guid>
       <description>Das ist ein Test.</description>
     </item>
     

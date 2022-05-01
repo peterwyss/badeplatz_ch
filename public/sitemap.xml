@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://badeplatz.ch/blog/</loc>
+    <loc>https://badeplatz.ch/blog/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/impressum/impressum/</loc>
+    <loc>https://badeplatz.ch/impressum/impressum/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/</loc>
+    <loc>https://badeplatz.ch/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/categories/</loc>
+    <loc>https://badeplatz.ch/categories/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/impressum/</loc>
+    <loc>https://badeplatz.ch/impressum/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/tags/</loc>
+    <loc>https://badeplatz.ch/tags/</loc>
   </url><url>
-    <loc>http://badeplatz.ch/test/</loc>
+    <loc>https://badeplatz.ch/test/</loc>
   </url>
 </urlset>

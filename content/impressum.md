@@ -18,5 +18,21 @@ Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller
 
 Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
+### Datenschutz
+
+Diese Website verwendet keine Cookies. Es werden keine Daten von Drittanbietern, wie Fonts oder JS-Frameworks geladen. Personendaten werden nur durch die [Logfiles](https://de.wikipedia.org/wiki/Logdatei)  des Webservers gespeichert. Und zwar folgende Daten: 
+
+   1. Die IP-Adresse des Nutzers oder der Nutzerin
+   2. Datum und Uhrzeit des Zugriffs
+   3. Name der abgerufenen Datei
+   4. Übertragene Datenmenge
+   5. Meldung, ob Abruf erfolgreich
+   6. Statuscode des Aufrufs
+   
+   Diese Daten können statistisch ausgewertet werden. Sie werden nicht an Dritte weitergegeben.
+
+
 ### Programmierung  
+
+Die Website wurde mit dem Framework [Hugo](https://gohugo.io) unter Verwendung eines modifizierten Templates von [Jan Raasch](https://github.com/janraasch/) erstellt.
 

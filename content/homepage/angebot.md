@@ -9,6 +9,7 @@ bilder:
    -  { src: "images/zwiebeln.webp",  alt: "Pasta"}
    -  { src: "images/wurst.webp",  alt: "Pasta"}
 header_menu: true
+
 ---
 
 {{< gallery  >}}

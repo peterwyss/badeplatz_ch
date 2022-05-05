@@ -1,6 +1,7 @@
 ---
 Title: "Kontakt"
 weight: 5
+
 ---
 
 {{<icon class="fa fa-envelope">}}&nbsp;[info@badeplatz.ch](mailto:info@badeplatz.ch)

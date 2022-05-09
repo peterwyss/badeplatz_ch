@@ -14,7 +14,7 @@ header_menu: true
 
 <br/>  
 
-  Herzlich Willkommen im Badeplatz Ludretikon. Die Badesaison startet am 7. Mai 2022. Wir freuen uns auch euch!  
+  Herzlich Willkommen im Badeplatz Ludretikon. Im Mai ist der Badeplatz ab 10:00 offen. Wir freuen uns auf euren Besuch!  
 
 {{< gallery  >}}
 

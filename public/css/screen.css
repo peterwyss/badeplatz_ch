@@ -1021,6 +1021,8 @@ a.fn-item.active {
     margin-right: 16px;
     font-size: 0.8em;
     line-height: 1.6em;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   #site-head {

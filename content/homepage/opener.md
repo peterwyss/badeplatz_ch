@@ -2,10 +2,10 @@
 Title: "Baden"
 weight: 1
 bilder: 
-   -  { src: "images/1.webp",  alt: "Sturm"}
-   -  { src: "images/suedosten.webp",  alt: "Südosten"}
-   -  { src: "images/tomaten.webp",  alt: "Tomaten"}
-   -  { src: "images/schwan.webp",  alt: "Schwan"}
+   -  { src: "images/1.webp",  alt: "Sturm über dem Zürichsee"}
+   -  { src: "images/suedosten.webp",  alt: "Zürichsee gegen Südosten"}
+   -  { src: "images/tomaten.webp",  alt: "Tomaten in der Ludibadi"}
+   -  { src: "images/schwan.webp",  alt: "Schwan in der Ludibadi"}
 params:  
 description: "Badeplatz am Zürichsee"  
 header_menu: true

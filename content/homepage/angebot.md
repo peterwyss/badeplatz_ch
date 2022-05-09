@@ -9,6 +9,7 @@ bilder:
    -  { src: "images/zwiebeln.webp",  alt: "Zwiebeln für unsere Burger"}
    -  { src: "images/wurst.webp",  alt: "Linsensalat"}
 header_menu: true
+tags: ["Burger", "Hausgemachte Pasta", "Bio-Hartweizen", "Badeplatz", "Zürichsee", "Strandbad"]
 
 ---
 

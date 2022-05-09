@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Badeplatz Ludretikon, Thalwil'
 
 [params]
-description = "Badeplatz mit Take Away"  
+description = "Badeplatz mit Take Away in Thalwil"  
+keywords = "Burger, Hausgemachte Pasta, Badeplatz, Zürichsee, Strandbad, Badi, Thalwil, Baden, Essen" 
 
 images = ["/images/cheeseburger.webp"]
 copyright = "Peter Wyss"

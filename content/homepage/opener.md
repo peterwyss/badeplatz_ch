@@ -9,6 +9,8 @@ bilder:
 params:  
 description: "Badeplatz am Zürichsee"  
 header_menu: true
+tags: ["Burger", "Hausgemachte Pasta", "Bio-Hartweizen", "Badeplatz", "Zürichsee", "Strandbad"]
+
 
 ---
 

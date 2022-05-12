@@ -1,6 +1,7 @@
 baseURL = 'https://badeplatz.ch'
 languageCode = 'en-us'
 title = 'Badeplatz Ludretikon, Thalwil'
+defaultContentLanguage = 'de'
 
 [params]
 description = "Badeplatz mit Take Away in Thalwil"  

@@ -4,6 +4,7 @@ weight: 5
 id: 4
 
 ---
+Von Juni bis September offen ab 09:00.  
 
 {{<icon class="fa fa-envelope">}}&nbsp;[info@badeplatz.ch](mailto:info@badeplatz.ch)
 

@@ -21,5 +21,4 @@ id: 1
 
 {{< gallery  >}}
 
-Miete bei uns einen Sonnenschirm für CHF 2.- oder einen Liegestuhl für CHF 5.-
 

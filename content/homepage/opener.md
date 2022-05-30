@@ -2,9 +2,9 @@
 Title: "Baden"
 weight: 1
 bilder: 
-   -  { src: "images/1.webp",  alt: "Sturm über dem Zürichsee"}
+   -  { src: "images/badeplatz.webp",  alt: "Badeplatz Ludretikon | Ludibadi", text: "Badeplatz Ludretikon mit Sandkasten im See" }
    -  { src: "images/suedosten.webp",  alt: "Zürichsee gegen Südosten"}
-   -  { src: "images/tomaten.webp",  alt: "Tomaten in der Ludibadi"}
+   -  { src: "images/morgen.webp",  alt: "Morgenstimmung in der Ludibadi"}
    -  { src: "images/schwan.webp",  alt: "Schwan in der Ludibadi"}
 params:  
 description: "Badeplatz am Zürichsee"  

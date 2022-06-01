@@ -17,7 +17,7 @@ id: 1
 
 <br/>  
 
-  Herzlich Willkommen im Badeplatz Ludretikon. Im Mai ist der Badeplatz ab 10:00 offen. Wir freuen uns auf euren Besuch!  
+  Herzlich Willkommen im Badeplatz Ludretikon. Wir freuen uns auf euren Besuch!  
 
 {{< gallery  >}}
 

@@ -73,6 +73,16 @@ figure {
     
 }
 
+table th {
+
+    color: green !important;
+
+}
+table td {
+
+    color: black;
+}
+
 @media only screen and (max-width: 500px) {
 
     .waves {

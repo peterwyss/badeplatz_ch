@@ -1,7 +1,7 @@
 ---
 Title: "Infos"
-weight: 4
-id: 4
+weight: 5
+id: 5
 
 ---
 Von Juni bis September offen ab 09:00.  

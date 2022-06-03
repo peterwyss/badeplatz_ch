@@ -47,6 +47,23 @@
     justify-content: center;
 
 }
+.status-bald-geschlossen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(240, 198, 13);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+
 .waves {
     height: 335px;
 }

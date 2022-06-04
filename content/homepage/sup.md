@@ -1,24 +1,18 @@
 ---
 Title: "SUP"
 weight: 4
-draft: false
 bilder: 
-   -  { src: "images/himbeeren.webp",  alt: "Himbeerdrink Ludibadi"}
-   -  { src: "images/sirsac.webp",  alt: "Urban Lemonade"}
-   -  { src: "images/loris.webp",  alt: "Loris Mate"}
+   -  { src: "images/sup_1.webp",  alt: "Unsere SUP-Boards"}
+   -  { src: "images/sup_2.webp",  alt: "Die Boards mit See im Hintergrund"}
 header_menu: true
 id: 4
-draft: true
+draft: false
 
 
 ---
 
 {{< gallery  >}}
 
-Fünf Hardboards und zwei inflatable Boards stehen zur Vermietung bereit. 
+Fünf Hardboards und zwei inflatable Boards stehen zur Vermietung bereit. Vermietung kostet CHF 20.- für die erste Stunde und CHF 15.- für jede weitere Stunde.
+Es stehen Westen zur Verfügung. 
 
-| Dauer | Preis  |
-|-------|--------|  
-|1h     |20 CHF  |
-|2h     |35 CHF  |    
-|3h     |45 CHF  |    

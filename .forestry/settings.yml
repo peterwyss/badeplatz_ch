@@ -33,4 +33,5 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --renderToDisk -t hugo-scroll -d public
+    --disableFastRender
 version: 0.81.0

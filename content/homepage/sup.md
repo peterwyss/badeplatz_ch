@@ -12,4 +12,4 @@ id: "4"
 ---
 {{< gallery  >}}
 
-Fünf Hardboards und zwei inflatable Boards stehen zur Vermietung bereit. Vermietung kostet CHF 20.- für die erste Stunde und CHF 15.- für jede weitere Stunde. Es stehen Paddles und Westen zur Verfügung.
+Fünf Hardboards und zwei inflatable Boards stehen zur Vermietung bereit. Die erste Stunde kostet CHF 20.-, jede weitere Stunde CHF 15.-. Es stehen Paddles und Westen zur Verfügung.

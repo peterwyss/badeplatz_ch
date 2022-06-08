@@ -2,9 +2,6 @@
 Title: Baden
 weight: "1"
 bilder:
-- src: images/cover_2.webp
-  alt: Badeplatz Ludretikon
-  text: ''
 - src: images/badeplatz.webp
   alt: Badeplatz Ludretikon | Ludibadi
   text: Badeplatz Ludretikon mit Sandkasten im See

@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path: ''
+webhook_url: https://lunar.metanet.ch:8443/modules/git/public/web-hook.php?uuid=59f2b259-f00d-ed1b-0cba-ed1fc4b7eb82
 sections:
 - type: directory
   path: content

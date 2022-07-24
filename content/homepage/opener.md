@@ -35,7 +35,7 @@ id: "1"
  Der Eintritt ist frei. Es gibt Toiletten, Duschen mit Warmwasser und 
  Garderoben jedoch keine Schliessfächer. Breite Steintreppen führen zum Wasser. Es gibt ein Sandkasten im See, in welchem die Kleinsten auch planschen können und ein Floss. 
  
- Weiter bietet der Badeplatz einen kleinen Spielplatz, ein Pingpongtisch, eine SUP-Station und natürlich ein Kiosk und Take-Away. 
+ Weiter bietet der Badeplatz einen kleinen Spielplatz, ein Tischtennistisch, eine SUP-Station und natürlich ein Kiosk und Take-Away. 
  
  Bei schönem Sommerwetter lädt der Badeplatz bis spät in die Nacht auf eine Erfrischung im Zürichsee ein. 
  

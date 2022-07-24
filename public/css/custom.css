@@ -15,14 +15,53 @@
     padding: 0.1em;
 }
 
-.status {
-    font-size: 0.5em;
-    left: 1em;
-    top: 0;
-    position: fixed;
-    padding-top: 1em;
-    background-color: rgb(55, 55, 59);
-    opacity: 50%;
+.status-offen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(162, 238, 40);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+.status-geschlossen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(240, 13, 13);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+.status-bald-geschlossen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(240, 198, 13);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
 }
 
 .waves {
@@ -45,11 +84,75 @@
 	}
 }
 
+figure {
+    font-size: 0.7em;
+
+    
+}
+
+table th {
+
+    color: green !important;
+
+}
+table td {
+
+    color: black;
+}
+
 @media only screen and (max-width: 500px) {
 
     .waves {
         height: 60px;
     }
- 
-
+    .status-offen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(162, 238, 40);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
+    .status-geschlossen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(240, 13, 13);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
+    .status-bald-geschlossen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(240, 198, 13);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
 }
+
+

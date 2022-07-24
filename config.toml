@@ -2,6 +2,7 @@ baseURL = 'https://badeplatz.ch'
 languageCode = 'en-us'
 title = 'Badeplatz Ludretikon, Thalwil'
 defaultContentLanguage = 'de'
+theme = "hugo-scroll"
 
 [params]
 description = "Badeplatz mit Take Away in Thalwil"  
@@ -12,6 +13,7 @@ copyright = "Peter Wyss"
 [markup.goldmark.renderer]
 unsafe= true
 favicon = "favicon.svg"
+
 
 
 

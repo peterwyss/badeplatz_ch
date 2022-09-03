@@ -28,7 +28,7 @@ id: "1"
 
   Herzlich Willkommen im Badeplatz Ludretikon. Wir freuen uns auf euren Besuch!  
 
-  Der Kiosk bleibt bis 18. September geöffnet. Im September sind wir ab 11:00 bis 18:00 für euch da.
+  Der Kiosk bleibt bis 18. September geöffnet. Im September sind wir ab 11:00 bis 19:00 für euch da.
 
 {{< gallery  >}}
 

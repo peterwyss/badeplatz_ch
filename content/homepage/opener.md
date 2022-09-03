@@ -28,6 +28,8 @@ id: "1"
 
   Herzlich Willkommen im Badeplatz Ludretikon. Wir freuen uns auf euren Besuch!  
 
+  Der Kiosk bleibt bis 18. September geöffnet. Im September sind wir ab 11:00 bis 18:00 für euch da.
+
 {{< gallery  >}}
 
  Der Badeplatz Ludretikon oder einfach die Ludibadi, wie sie im Quartier genannt wird, ist ein Badeplatz ohne Aufsicht, aber mit viel Badespass. 

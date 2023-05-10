@@ -28,7 +28,7 @@ id: "1"
 
   Herzlich Willkommen im Badeplatz Ludretikon. 
 
-Bald hat das Warten ein Ende und wir sind wieder für Euch da. Wir sind ab 6. Mai wieder zurück in der Ludibadi!
+Das Warten ein Ende, wir sind wieder für Euch da! 
 
 {{< gallery  >}}
 

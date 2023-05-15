@@ -30,6 +30,8 @@ id: "1"
 
 Das Warten ein Ende, wir sind wieder für Euch da! 
 
+<sub>Es müsste eigentlich heissen, wir wären gerne für Euch da und sind es nun eben nicht, solange das geeignete Wetter nicht da ist.</sub>
+
 {{< gallery  >}}
 
  Der Badeplatz Ludretikon oder einfach die Ludibadi, wie sie im Quartier genannt wird, ist ein Badeplatz ohne Aufsicht, aber mit viel Badespass. 

@@ -28,9 +28,6 @@ id: "1"
 
   Herzlich Willkommen im Badeplatz Ludretikon. 
 
-Das Warten ein Ende, wir sind wieder für Euch da! 
-
-<sub>Es müsste eigentlich heissen, wir wären gerne für Euch da und sind es nun eben nicht, solange das geeignete Wetter nicht da ist.</sub>
 
 {{< gallery  >}}
 

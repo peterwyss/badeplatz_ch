@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "lightbox2": "^2.11.3"
+    "@tinacms/cli": "^1.5.14",
+    "lightbox2": "^2.11.3",
+    "tinacms": "^1.5.6"
   }
 }

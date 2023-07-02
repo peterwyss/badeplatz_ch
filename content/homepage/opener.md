@@ -31,13 +31,12 @@ id: "1"
 
 {{< gallery  >}}
 
- Der Badeplatz Ludretikon oder einfach die Ludibadi, wie sie im Quartier genannt wird, ist ein Badeplatz ohne Aufsicht, aber mit viel Badespass. 
- 
- Der Eintritt ist frei. Es gibt Toiletten, Duschen mit Warmwasser und 
- Garderoben jedoch keine Schliessfächer. Breite Steintreppen führen zum Wasser. Es gibt ein Sandkasten im See, in welchem die Kleinsten auch planschen können und ein Floss. 
- 
- Weiter bietet der Badeplatz einen kleinen Spielplatz, ein Tischtennistisch, eine SUP-Station und natürlich ein Kiosk und Take-Away. 
- 
- Bei schönem Sommerwetter lädt der Badeplatz bis spät in die Nacht auf eine Erfrischung im Zürichsee ein. 
- 
- Aber nicht vergessen: Es gibt keine Badeaufsicht, das Baden erfolgt auf eigene Gefahr. 
+ Die Badi Ludretikon oder einfach Ludibadi, wie sie im Quartier genannt wird, ist ein Badeplatz ohne Aufsicht, aber mit viel Badespass.
+
+Der Eintritt ist frei. Es gibt Toiletten, Duschen mit Warmwasser und Umkleidekabinen, aber keine Schliessfächer. Breite Steintreppen führen ins Wasser. Im See befindet sich ein Sandkasten, in dem auch die Kleinsten planschen können, und ein Floss.
+
+Außerdem gibt es einen kleinen Spielplatz, einen Tischtennistisch, eine SUP-Station und natürlich einen Kiosk mit Take-Away.
+
+Bei schönem Sommerwetter lädt die Badi bis spät in die Nacht zu einer Erfrischung im Zürichsee ein.
+
+Aber nicht vergessen: Es gibt keine Badeaufsicht, das Baden erfolgt auf eigene Gefahr.

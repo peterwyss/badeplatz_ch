@@ -11,9 +11,9 @@ Von Juni bis August offen ab 09:00. Die Küche bleibt bei Bedarf bis 21:00 offen
 {{<icon class="fa fa-phone">}}&nbsp;[+41 44 720 17 09 ](tel:+41447201709)
 
 
-{{<icon class="fa fa-instagram fa-2x">}}&nbsp;[Instagram](https://www.instagram.com/ludibadi/)
+[{{<icon class="fa fa-instagram fa-2x">}} Instagram ](https://www.instagram.com/ludibadi/){:target="_blank"}
 
-{{<icon class="fa fa-map-marker">}} Badeplatz Ludretikon  
+[{{<icon class="fa fa-map-marker">}} Badeplatz Ludretikon](https://goo.gl/maps/k4qhtM6hGMeGvVaS8)
 Seestrasse 160  
 8800 Thalwil
 

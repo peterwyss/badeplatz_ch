@@ -5,7 +5,7 @@ id: 5
 
 ---
 
-Im September ist die Badi und der Kiosk ab 10:00 offen. Geniesst die verbleibenden Tage bei uns am See. Wir sind noch bis zum 17. September für euch da. Ab November verköstigen wir euch in der Eisbahn Brand in Thalwil.
+Im September ist die Badi und der Kiosk ab 10:00 offen. Geniesst die verbleibenden Tage bei uns am See. Wir sind noch bis zum 17. September für euch da. Ab November verköstigen wir euch auf der Eisbahn Brand in Thalwil.
 
 {{<icon class="fa fa-envelope">}}&nbsp;[info@badeplatz.ch](mailto:info@badeplatz.ch)
 

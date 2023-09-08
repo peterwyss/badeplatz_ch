@@ -7,11 +7,11 @@ elem_g.innerHTML = "Geschlossen";
 elem_g.className = "status-geschlossen";
 
 var elem_b = document.createElement('div');
-elem_b.innerHTML = "Schliesst bald";
+elem_b.innerHTML = "Offen bis 17.09";
 elem_b.className = "status-bald-geschlossen";
 
 var elem_o = document.createElement('div');
-elem_o.innerHTML = "Offen";
+elem_o.innerHTML = "Offen ";
 elem_o.className = "status-offen";
 
 

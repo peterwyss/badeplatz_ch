@@ -5,4 +5,8 @@ header_subheadline: "Badeplatz Ludretikon | Badeplatz mit Gastronomie"
 title: "Badeplatz Ludretikon Thalwil" 
 ---
 
+Winterpause!
 
+Besuchen Sie uns auf 
+
+der Eisbahn Brand in Thalwil.

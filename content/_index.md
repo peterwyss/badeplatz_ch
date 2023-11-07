@@ -9,4 +9,4 @@ Winterpause!
 
 Besuchen Sie uns auf 
 
-der Eisbahn Brand in Thalwil.
+der [Eisbahn Brand](https://imbrand.ch) in Thalwil.

@@ -5,8 +5,7 @@ header_subheadline: "Badeplatz Ludretikon | Badeplatz mit Gastronomie"
 title: "Badeplatz Ludretikon Thalwil" 
 ---
 
-Winterpause!
 
-Besuchen Sie uns auf 
+Offen ab 4. Mai 2024
 
-der [Eisbahn Brand](https://imbrand.ch) in Thalwil.
+Wir freuen uns!

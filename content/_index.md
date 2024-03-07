@@ -6,6 +6,6 @@ title: "Badeplatz Ludretikon Thalwil"
 ---
 
 
-Offen ab 4. Mai 2024
+Offen ab Samstag 4. Mai 2024
 
 Wir freuen uns!

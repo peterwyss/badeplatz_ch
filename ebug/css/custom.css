@@ -1,0 +1,168 @@
+
+.winterpause {
+    font-size: 10em;
+    color: red;
+}
+.post-holder {
+    background-image: repeating-linear-gradient(90deg, rgb(255, 230, 255), rgb(255, 255, 255) 1.5%) !important;
+}
+
+.post-holder.odd {
+    background-image: repeating-linear-gradient(90deg, rgb(0, 180, 255), rgb(0, 190, 255) 1.5%) !important;
+}
+
+.post-header {
+    margin-bottom: 25px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+.g-img {
+    padding: 0.1em;
+}
+
+.status-offen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(162, 238, 40);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+.status-geschlossen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(240, 13, 13);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+.status-bald-geschlossen {
+    font-family: "Oswald", sans-serif;
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(240, 198, 13);
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+
+}
+
+.waves {
+    height: 335px;
+}
+#w {
+    animation-name:             changing;
+    animation-duration:         12s;
+    animation-direction: normal        ;
+    animation-iteration-count:  1;
+    stroke: blue;
+}
+
+@keyframes changing {
+	0% {
+		width: 1%;
+	}
+	100% {
+		width: 100%;
+	}
+}
+
+figure {
+    font-size: 0.7em;
+
+    
+}
+
+table th {
+
+    color: green !important;
+
+}
+table td {
+
+    color: black;
+}
+
+@media only screen and (max-width: 500px) {
+
+
+    .waves {
+        height: 60px;
+    }
+    .status-offen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(162, 238, 40);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
+    .status-geschlossen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(240, 13, 13);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
+    .status-bald-geschlossen {
+        font-family: "Oswald", sans-serif;
+        width: 6em;
+        height: 6em;
+        border-radius: 3em;
+        text-align: center;
+        font-size: 0.7em;
+        background-color: rgb(240, 198, 13);
+        position: absolute;
+        top: 3em;
+        left: 3em;
+        display: flex;
+        align-items:center ;
+        justify-content: center;
+    
+    }
+}
+
+

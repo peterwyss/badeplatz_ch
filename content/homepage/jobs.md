@@ -1,7 +1,7 @@
 ---
 title: Jobs
-draft: true
-header_menu: false
+draft: false
+header_menu: true
 
 ---
 

@@ -7,4 +7,3 @@ title: "Badeplatz Ludretikon Thalwil"
 
 
 Wir sind wieder für Euch da!
-Wir freuen uns!

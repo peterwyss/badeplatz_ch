@@ -16,7 +16,9 @@ elem_o.className = "status-offen";
 
 
 var status = "";
-
+$(document).ready(function() {
+    $.ajaxSetup({ cache: false });
+  });
 $.getJSON( "/js/status.json", function( data ) {
     console.log( data );
     status = data.badeplatz.status;

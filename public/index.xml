@@ -29,14 +29,5 @@ Haftungsausschluss Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhal
 Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.</description>
     </item>
     
-    <item>
-      <title>Testseite</title>
-      <link>https://badeplatz.ch/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://badeplatz.ch/test/</guid>
-      <description>Das ist ein Test.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -48,7 +48,7 @@ foreach ($rows as $row) {
 // Speichern der aktuellen Temperatur von Oberrieden im JSON-Format
 if (!empty($data)) {
     $json_data = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    file_put_contents('/home/httpd/vhosts/peter-wyss.ch/badeplatz.ch/puplic/admin/oberrieden_temperatur.json', $json_data);
+    file_put_contents('oberrieden_temperatur.json', $json_data);
     echo "Die aktuelle Temperatur von Oberrieden wurde in 'oberrieden_temperatur.json' gespeichert.";
 } else {
     echo "Die gewünschte Zeile wurde nicht gefunden.";

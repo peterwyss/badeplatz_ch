@@ -6,4 +6,4 @@ title: "Badeplatz Ludretikon Thalwil"
 ---
 
 
-Wir sind wieder für Euch da!
+Offen bis 15. September!

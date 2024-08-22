@@ -1,4 +1,14 @@
 
+.temperature {
+    position: absolute;
+    top: 3em;
+    right: 5em;
+    font-size:1.5em;
+    border-radius: 3em;
+    background-color: rgb(40, 70, 238);
+    padding:2%
+
+}
 .winterpause {
     font-size: 10em;
     color: red;
@@ -110,7 +120,16 @@ table td {
 }
 
 @media only screen and (max-width: 500px) {
-
+    .temperature {
+        position: absolute;
+        top: 3em;
+        right: 1em;
+        font-size:1em;
+        border-radius: 3em;
+        background-color: rgb(40, 70, 238);
+        padding:1%
+    
+    }
 
     .waves {
         height: 60px;

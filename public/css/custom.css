@@ -3,10 +3,10 @@
     position: absolute;
     top: 3em;
     right: 5em;
-    font-size:3em;
-    border-radius: 1em;
+    font-size:1em;
+    border-radius: 3em;
     background-color: rgb(40, 70, 238);
-    padding:2%
+    padding:1%
 
 }
 .winterpause {
@@ -183,5 +183,4 @@ table td {
     
     }
 }
-
 

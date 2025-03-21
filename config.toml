@@ -10,6 +10,8 @@ keywords = "Burger, Hausgemachte Pasta, Badeplatz, Zürichsee, Strandbad, Badi, 
 
 images = ["/images/cheeseburger.webp"]
 copyright = "Peter Wyss"
+[markup]
+[markup.goldmark]
 [markup.goldmark.renderer]
 unsafe= true
 favicon = "favicon.svg"

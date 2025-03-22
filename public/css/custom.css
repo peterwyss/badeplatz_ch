@@ -122,9 +122,9 @@ table td {
 @media only screen and (max-width: 500px) {
     .temperature {
         position: absolute;
-        top: 3em;
+        top: 1em;
         right: 1em;
-        font-size:1em;
+        font-size:0.7em;
         border-radius: 3em;
         background-color: rgb(40, 70, 238);
         padding:1%
@@ -144,7 +144,7 @@ table td {
         background-color: rgb(162, 238, 40);
         position: absolute;
         top: 3em;
-        left: 3em;
+        left: 1em;
         display: flex;
         align-items:center ;
         justify-content: center;
@@ -160,7 +160,7 @@ table td {
         background-color: rgb(240, 13, 13);
         position: absolute;
         top: 3em;
-        left: 3em;
+        left: 1em;
         display: flex;
         align-items:center ;
         justify-content: center;
@@ -176,7 +176,7 @@ table td {
         background-color: rgb(240, 198, 13);
         position: absolute;
         top: 3em;
-        left: 3em;
+        left: 1em;
         display: flex;
         align-items:center ;
         justify-content: center;

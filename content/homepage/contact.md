@@ -4,7 +4,7 @@ weight: 5
 id: 5
 draft: true
 ---
-Von Juni bis August offen ab 09:00. Die Küche bleibt bei Bedarf bis 21:00 offen und bei schönem Wetter bieten wir unser Barangebot bis 22:30 an.   
+Von Juni bis August offen ab 09:00. Die Küche bleibt bei Bedarf bis 21:00 offen und bei schönem Wetter bieten wir unser Barangebot bis 23:00 an.   
 
 {{<icon class="fa fa-envelope">}}&nbsp;[info@badeplatz.ch](mailto:info@badeplatz.ch)
 

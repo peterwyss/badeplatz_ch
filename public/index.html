@@ -84,30 +84,15 @@
 
     
     <div class="vertical">
-        <div class="temperature" id="temp">Lädt...</div> 
 
         <div id="site-head-content" class="inner">
 
-            
-            
-            
-              
-                
-                
-                
-                
-                
 
-              
-              
-            
-            
-            <pre>map[string]interface {}{&#34;Titel&#34;:&#34;Die Ludibadi&#34;, &#34;_cby&#34;:&#34;fee071c03235352228000362&#34;, &#34;_created&#34;:1.710244171e&#43;09, &#34;_id&#34;:&#34;f8f6a2893465385071000021&#34;, &#34;_mby&#34;:&#34;fee071c03235352228000362&#34;, &#34;_model&#34;:&#34;eintest&#34;, &#34;_modified&#34;:1.746544537e&#43;09, &#34;_state&#34;:1, &#34;untertitel&#34;:&#34;Badeplatz Ludretikon&#34;}</pre>
-
-
-            <h1 class="blog-title">Die Ludibadi </h1>
+            <h1 class="blog-title"> </h1>
 
             <h2 class="blog-description">Badeplatz Ludretikon </h2>
+
+
 
             
             <a class='btn site-menu' data-title-anchor='baden'>Baden</a>
@@ -128,7 +113,6 @@
 
 
 <main class="content" role="main">
-    <div class="status" id="status">
         
     </div>
 
@@ -2021,29 +2005,9 @@ rotate="auto-reverse" begin="90s"/>
 </script><div class='post-after'></div>
     </div>
     
-</main><script>
-    
-    const jsonFilePath = 'https://badeplatz.ch/admin/oberrieden_temperatur.json';
+</main>
 
-    
-    fetch(jsonFilePath)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Netzwerkantwort war nicht ok');
-            }
-            return response.json();
-        })
-        .then(data => {
-            
-            const tempAktuell = data["Temp. aktuell"].trim();
-            
-            document.getElementById("temp").textContent = "Wasser: " + tempAktuell + "°C";
-        })
-        .catch(error => {
-            console.error('Fehler beim Laden der JSON-Datei:', error);
-            document.getElementById("temperature").textContent = "Fehler beim Laden der Temperaturdaten.";
-        });
-</script><footer class="site-footer">
+<footer class="site-footer">
   <div class="inner">
 
     
